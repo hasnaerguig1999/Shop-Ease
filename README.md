@@ -1,9 +1,9 @@
 # Shop-Ease
 
-## Description
+# Description
 
-     Shop-Ease est une application mobile qui permet aux utilisateurs d'acheter des cours
-     et achetez-les. L'application est construite à l'aide de React Native, Expo et React Redux.
+ Shop-Ease est une application mobile qui permet aux utilisateurs d'acheter des cours
+   et achetez-les. L'application est construite à l'aide de React Native, Expo et React Redux.
 
 ## Caractéristiques
 
